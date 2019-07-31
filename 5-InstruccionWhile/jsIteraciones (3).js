@@ -1,6 +1,21 @@
 function mostrar()
 {
 
+
+// DO WHILE
+
+do{
+
+    var clave = prompt("Ingrese su clave: ")
+
+} while (clave != "utn750");
+
+alert("Bienvenido");
+
+
+
+
+/*    
 var clave = prompt("Ingrese su clave: ");
 
 while(clave != "utn750"){
@@ -11,7 +26,7 @@ while(clave != "utn750"){
 
 
 alert("Bienvenido");
-
+*/
 
 
 }//FIN DE LA FUNCIÓN
